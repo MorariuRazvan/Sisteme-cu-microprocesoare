@@ -1,0 +1,3 @@
+delay slot-uri -> intarzierile
+MIPS -32 registrii generali ($0-$31)
+$0 este tot timpul 0

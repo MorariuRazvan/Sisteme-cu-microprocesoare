@@ -1,0 +1,4 @@
+Să se rezolve in limbaj de asamblare MIPS:
+13. Se citeste un numar n natural (>0) de la tastatură (se va face testul de pozitivitate). Să se
+determine câte dintre cifrele numărului natural n sunt mai mici si respectiv mai mari decât
+media lor aritmetică.
